@@ -1,10 +1,10 @@
-import React from "react";
+import react from "react";
 
 
 const Tech = ()=>{
 
   return (
-    <div> Tech </div>
+    <div> Tech 13 </div>
   )
 }
 
